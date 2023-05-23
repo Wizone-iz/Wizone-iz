@@ -24,6 +24,15 @@
    - Sale and purchase of network devices
 ---
 
+## Courses:
+   - Cyber Security (Habiskerja.com)                           20223
+   - Cyber Security Expert (IT BOX)                            2023 - Present
+   - CCNA Expert (IT BOX)                                      2023 - Present
+   - Red Hat Enterprise Linux Automation with Ansible          2022
+   - Cyber Security Linux+ (Digitalent Kominfo)                2022
+   - Ethical Hacking for Beginners (simplilearn)               2022
+   - Belajar Dasar Pemrograman Web (dicoding)                  2020
+
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
