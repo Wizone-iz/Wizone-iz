@@ -13,7 +13,7 @@
    - Research paper‐ Mobile Device Security Evaluation using Reverse TCP Method
    - Research paper ‐ Analysis of Anubis Trojan Attack on Android Banking Application using Mobile Security Labware
    - Research paper ‐ Penetration Testing with OWASP Mobile for Android Security Optimization
-#### 1. [Universitas Muhammadiyah Bengkulu](https://umb.ac.id/) | Bachelor of Informatics Engineering | Bengkulu `2015-2019`
+#### 2. [Universitas Muhammadiyah Bengkulu](https://umb.ac.id/) | Bachelor of Informatics Engineering | Bengkulu `2015-2019`
    -  Build Android attendance application based on QR Code
 
 ## Freelancer:
