@@ -1,7 +1,7 @@
 # Hi there, I'm Deco - aka [Wizone-iz] 👋
 ## About me:
 - 🔭 I’m Fresh Graduate Magister Informatics
-- 🌱 I’m currently learning Python, Cyber Security & CCNA
+- 🌱 I’m currently learning Quality Assurance, Python, Cyber Security & CCNA
 - 👯 I’m looking to collaborate as Security Engineering
 - 💬 Ask me about anything
 - 📫 How to reach me: deco9529@gmail.com
@@ -28,6 +28,7 @@
    - Cyber Security (Habiskerja.com)                           20223
    - Cyber Security Expert (IT BOX)                            2023 - Present
    - CCNA Expert (IT BOX)                                      2023 - Present
+   - Kelas Quality Assurance (Habiskerja.com)                  2023
    - Red Hat Enterprise Linux Automation with Ansible          2022
    - Cyber Security Linux+ (Digitalent Kominfo)                2022
    - Ethical Hacking for Beginners (simplilearn)               2022
